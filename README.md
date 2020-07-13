@@ -22,3 +22,10 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Sample file
+Check the sample folder
+
+### Demo Link: Codesandbox
+https://codesandbox.io/s/github/senthil88/vue-text-search
+https://3yy0v.csb.app/
